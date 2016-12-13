@@ -573,5 +573,3 @@ class DatabaseV5 {
     }
 
 }
-
-?>
