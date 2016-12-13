@@ -1,0 +1,24 @@
+{
+    "name": "furthestworld/libdb",
+    "description": "library of mysql db.",
+    "keywords": [
+        "php",
+        "mysql-library"
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Lib": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xuanskyer",
+            "email": "furthestworld@icloud.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
